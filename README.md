@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="D:\DataAnalyticsProjects\OLA_Data_Analytics_End_To_End_Project\Images\OLAlogo.jpg" alt="OLA logo" width="120"/>
+  <img src="OLA_Data_Analytics_End_To_End_Project/Images/OLAlogo.jpg" alt="OLA logo" width="120"/>
 </p>
 
 # OLA Data Analytics: End to End
