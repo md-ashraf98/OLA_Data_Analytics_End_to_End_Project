@@ -170,5 +170,4 @@ Recovering even 10% of the ₹21.45M lost on failed bookings would add about ₹
 - Python (pandas, matplotlib): verification and report charts
 
 ## Author
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+**Pinjari Mohammed Ashraf**
